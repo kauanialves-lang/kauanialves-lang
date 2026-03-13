@@ -42,7 +42,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 ## 📫 Contato
 
 📧 Email: kauani_alves@estudante.sesisenai.org.br  
-💼 GitHub: https://github.com/kauanialves
+💼 GitHub: https://github.com/kauanialves-lang
 
 ---
 
