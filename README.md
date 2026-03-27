@@ -8,6 +8,7 @@
 
 
 💻 Interessado em tecnologia, programação e inovação  
+
 ## 📜 Cursos de Curta Duração
 
 🏛 Jovem Empreendedor – [ACISV] (2025)
