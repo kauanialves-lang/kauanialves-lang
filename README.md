@@ -1,6 +1,13 @@
 # 👋 Olá, eu sou Kauani Nicole Alves
 
-🎓 Estudante da Aprendizagem Industrial Programador de Sistemas de Informação
+🎓 Estudante da Aprendizagem Industrial Programador de Sistemas de Informação.(SENAI) Contratado pela Empresa Seara Alimentos
+
+🎓 Estudante do 3° Ano da Escola E.E.B Gov Bornhausen.
+
+
+## 📜 Cursos de Curta Duração
+
+🏛 Jovem Empreendedor – [ACISV] (2025)
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
