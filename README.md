@@ -6,6 +6,7 @@
 
 
 
+
 💻 Interessado em tecnologia, programação e inovação  
 ## 📜 Cursos de Curta Duração
 
