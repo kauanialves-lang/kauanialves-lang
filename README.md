@@ -5,11 +5,11 @@
 🎓 Estudante do 3° Ano da Escola E.E.B Gov Bornhausen.
 
 
+
+💻 Interessado em tecnologia, programação e inovação  
 ## 📜 Cursos de Curta Duração
 
 🏛 Jovem Empreendedor – [ACISV] (2025)
-
-💻 Interessado em tecnologia, programação e inovação  
 
 ---
 
